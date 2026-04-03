@@ -96,3 +96,5 @@ Thumbs.db
 *.csv
 !requirements.csv
 logs/
+ny_taxi_trip_duration/data/
+*.csv
